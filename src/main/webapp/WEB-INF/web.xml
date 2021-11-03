@@ -1,0 +1,40 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<web-app version="4.0" xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd">
+  <display-name>Archetype Created Web Application</display-name>
+
+  <!-- log4j2-begin -->
+  <listener>
+    <listener-class>org.apache.logging.log4j.web.Log4jServletContextListener</listener-class>
+  </listener>
+  <filter>
+    <filter-name>log4jServletFilter</filter-name>
+    <filter-class>org.apache.logging.log4j.web.Log4jServletFilter</filter-class>
+  </filter>
+  <filter-mapping>
+    <filter-name>log4jServletFilter</filter-name>
+    <url-pattern>/*</url-pattern>
+    <dispatcher>REQUEST</dispatcher>
+    <dispatcher>FORWARD</dispatcher>
+    <dispatcher>INCLUDE</dispatcher>
+    <dispatcher>ERROR</dispatcher>
+  </filter-mapping>
+  <!-- log4j2-end -->
+
+  <!--Spring5不支持log4j老版本了 -->
+<!--  <context-param>-->
+<!--    <param-name>log4jConfigLocation</param-name>-->
+<!--    <param-value>classpath:/resources/log4j.properties</param-value>-->
+<!--  </context-param>-->
+<!--  <listener>-->
+<!--    <listener-class>org.springframework.web.util.Log4jConfigListener</listener-class>-->
+<!--  </listener>-->
+
+</web-app>
+
+
+
+
