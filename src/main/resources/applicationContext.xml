@@ -14,7 +14,12 @@
         http://www.springframework.org/schema/tx/spring-tx.xsd
         http://www.w3.org/2001/XMLSchema-instance">
 
-    <bean id="date" class="java.util.Date"></bean>
+    <bean id="geLi" class="MAtest.Actor">
+        <constructor-arg name="name" value="刘德华"></constructor-arg>
+    </bean>
+    <bean id="moAttack" class="MAtest.MoAttack">
+        <constructor-arg name="geLi" ref="geLi"></constructor-arg>
+    </bean>
 
 
 
