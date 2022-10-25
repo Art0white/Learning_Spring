@@ -6,13 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Learning_Spring" />
+        <module name="_01_Start_Spring_Boot" />
+        <module name="_02_Spring_Boot_Config" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Learning_Spring" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Learning_Spring" options="" />
+      <module name="_01_Start_Spring_Boot" options="-parameters" />
+      <module name="_02_Spring_Boot_Config" options="-parameters" />
     </option>
   </component>
 </project>
