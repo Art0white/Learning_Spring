@@ -11,14 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aa2e7ee-4d00-4c5b-9782-976e8dfafcc2" name="变更" comment="3.Spring Boot中使用MyBatis">
-      <change afterPath="$PROJECT_DIR$/_03_Spring_Boot_MyBatis/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_03_Spring_Boot_MyBatis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_03_Spring_Boot_MyBatis/src/main/java/com/lspring/demo/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_03_Spring_Boot_MyBatis/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_03_Spring_Boot_MyBatis/src/test/java/com/lspring/demo/ApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_Spring_Boot_MyBatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_03_Spring_Boot_MyBatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_Spring_Boot_MyBatis/src/main/java/com/lspring/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_Spring_Boot_MyBatis/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "E:/project_java/Learning_Spring/_02_Spring_Boot_Config",
+    "last_opened_file_path": "E:/project_java/Learning_Spring/_03_Spring_Boot_MyBatis/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,6 +77,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project_java\Learning_Spring\_03_Spring_Boot_MyBatis\src\main\resources" />
+      <recent name="E:\project_java\Learning_Spring\_03_Spring_Boot_MyBatis\src\main\java\com\lspring\demo" />
       <recent name="E:\project_java\Learning_Spring\_02_Spring_Boot_Config\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -90,7 +92,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Application">
+  <component name="RunManager">
     <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="_02_Spring_Boot_Config" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lspring._02_spring_boot_config.Application" />
@@ -132,7 +134,7 @@
       <workItem from="1666696621573" duration="4431000" />
       <workItem from="1666701651425" duration="3478000" />
       <workItem from="1666763302892" duration="104000" />
-      <workItem from="1666763417904" duration="2761000" />
+      <workItem from="1666763417904" duration="7316000" />
     </task>
     <task id="LOCAL-00001" summary="各种引用">
       <created>1666704862851</created>
@@ -190,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666766195695</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="3.Spring Boot中使用MyBatis">
+      <created>1666766206149</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666766206149</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

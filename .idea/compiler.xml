@@ -7,11 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="_01_Start_Spring_Boot" />
+        <module name="_03_Spring_Boot_MyBatis" />
         <module name="_02_Spring_Boot_Config" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="_03_Spring_Boot_MyBatis" target="1.8" />
       <module name="Learning_Spring" target="1.7" />
     </bytecodeTargetLevel>
   </component>

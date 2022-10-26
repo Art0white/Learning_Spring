@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Learning_Spring.iml" filepath="$PROJECT_DIR$/Learning_Spring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_03_Spring_Boot_MyBatis/_03_Spring_Boot_MyBatis.iml" filepath="$PROJECT_DIR$/_03_Spring_Boot_MyBatis/_03_Spring_Boot_MyBatis.iml" />
     </modules>
   </component>
 </project>
