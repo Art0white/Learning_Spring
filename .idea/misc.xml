@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/_02_Spring_Boot_Config/pom.xml" />
         <option value="$PROJECT_DIR$/_03_Spring_Boot_MyBatis/pom.xml" />
         <option value="$PROJECT_DIR$/_04_Spring_Boot_JdbcTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/_05_Spring_Boot_MyBatis_MultiDataSource/pom.xml" />
       </list>
     </option>
   </component>
