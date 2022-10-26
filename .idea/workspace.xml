@@ -10,7 +10,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aa2e7ee-4d00-4c5b-9782-976e8dfafcc2" name="变更" comment="3.Spring Boot中使用MyBatis MySQL">
+    <list default="true" id="3aa2e7ee-4d00-4c5b-9782-976e8dfafcc2" name="变更" comment="3.Spring Boot中使用MyBatis">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +58,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "E:/project_java/Learning_Spring/_03_Spring_Boot_MyBatis/src/main/resources",
+    "last_opened_file_path": "E:/project_java/Learning_Spring/_04_Spring_Boot_JdbcTemplate/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,6 +73,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project_java\Learning_Spring\_04_Spring_Boot_JdbcTemplate\src\main\resources" />
+      <recent name="E:\project_java\Learning_Spring\_04_Spring_Boot_JdbcTemplate\src\main\java\com\lstring\demo" />
       <recent name="E:\project_java\Learning_Spring\_03_Spring_Boot_MyBatis\src\main\resources" />
       <recent name="E:\project_java\Learning_Spring\_03_Spring_Boot_MyBatis\src\main\java\com\lspring\demo" />
       <recent name="E:\project_java\Learning_Spring\_02_Spring_Boot_Config\src\main\resources" />
@@ -107,6 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Application (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="_04_Spring_Boot_JdbcTemplate" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lstring.demo.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="_01_Start_Spring_Boot" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lspring.demo.Application" />
@@ -127,7 +139,7 @@
       <workItem from="1666696621573" duration="4431000" />
       <workItem from="1666701651425" duration="3478000" />
       <workItem from="1666763302892" duration="104000" />
-      <workItem from="1666763417904" duration="8027000" />
+      <workItem from="1666763417904" duration="9321000" />
     </task>
     <task id="LOCAL-00001" summary="各种引用">
       <created>1666704862851</created>
@@ -220,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666771114020</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="3.Spring Boot中使用MyBatis">
+      <created>1666771491203</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666771491203</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,10 +264,10 @@
     <MESSAGE value="变化" />
     <MESSAGE value="删掉一些注释" />
     <MESSAGE value="项目结构修改" />
-    <MESSAGE value="3.Spring Boot中使用MyBatis" />
     <MESSAGE value="3.Spring Boot中使用MyBatis Application" />
     <MESSAGE value="3.Spring Boot中使用MyBatis 全局配置" />
     <MESSAGE value="3.Spring Boot中使用MyBatis MySQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.Spring Boot中使用MyBatis MySQL" />
+    <MESSAGE value="3.Spring Boot中使用MyBatis" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.Spring Boot中使用MyBatis" />
   </component>
 </project>

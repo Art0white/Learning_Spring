@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="_01_Start_Spring_Boot" />
+        <module name="_04_Spring_Boot_JdbcTemplate" />
         <module name="_03_Spring_Boot_MyBatis" />
         <module name="_02_Spring_Boot_Config" />
       </profile>
@@ -21,6 +22,7 @@
       <module name="_01_Start_Spring_Boot" options="-parameters" />
       <module name="_02_Spring_Boot_Config" options="-parameters" />
       <module name="_03_Spring_Boot_MyBatis" options="-parameters" />
+      <module name="_04_Spring_Boot_JdbcTemplate" options="-parameters" />
     </option>
   </component>
 </project>
