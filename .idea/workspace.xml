@@ -10,15 +10,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aa2e7ee-4d00-4c5b-9782-976e8dfafcc2" name="变更" comment="3.Spring Boot中使用MyBatis">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="3aa2e7ee-4d00-4c5b-9782-976e8dfafcc2" name="变更" comment="3.Spring Boot中使用MyBatis MySQL">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_03_Spring_Boot_MyBatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_03_Spring_Boot_MyBatis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_03_Spring_Boot_MyBatis/src/main/java/com/lspring/demo/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_03_Spring_Boot_MyBatis/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +127,7 @@
       <workItem from="1666696621573" duration="4431000" />
       <workItem from="1666701651425" duration="3478000" />
       <workItem from="1666763302892" duration="104000" />
-      <workItem from="1666763417904" duration="7316000" />
+      <workItem from="1666763417904" duration="8027000" />
     </task>
     <task id="LOCAL-00001" summary="各种引用">
       <created>1666704862851</created>
@@ -199,7 +192,35 @@
       <option name="project" value="LOCAL" />
       <updated>1666766206149</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="3.Spring Boot中使用MyBatis">
+      <created>1666771048358</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666771048358</updated>
+    </task>
+    <task id="LOCAL-00011" summary="3.Spring Boot中使用MyBatis Application">
+      <created>1666771077850</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666771077850</updated>
+    </task>
+    <task id="LOCAL-00012" summary="3.Spring Boot中使用MyBatis 全局配置">
+      <created>1666771095630</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666771095630</updated>
+    </task>
+    <task id="LOCAL-00013" summary="3.Spring Boot中使用MyBatis MySQL">
+      <created>1666771114020</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666771114020</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +246,9 @@
     <MESSAGE value="删掉一些注释" />
     <MESSAGE value="项目结构修改" />
     <MESSAGE value="3.Spring Boot中使用MyBatis" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.Spring Boot中使用MyBatis" />
+    <MESSAGE value="3.Spring Boot中使用MyBatis Application" />
+    <MESSAGE value="3.Spring Boot中使用MyBatis 全局配置" />
+    <MESSAGE value="3.Spring Boot中使用MyBatis MySQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.Spring Boot中使用MyBatis MySQL" />
   </component>
 </project>
