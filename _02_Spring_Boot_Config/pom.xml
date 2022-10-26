@@ -16,9 +16,11 @@
 
     <name>_02_Spring_Boot_Config</name>
     <description>_02_Spring_Boot_Config</description>
+
     <properties>
         <java.version>1.8</java.version>
     </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
