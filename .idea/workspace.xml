@@ -10,19 +10,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aa2e7ee-4d00-4c5b-9782-976e8dfafcc2" name="变更" comment="26.Spring Boot中使用过滤器和拦截器">
+    <list default="true" id="3aa2e7ee-4d00-4c5b-9782-976e8dfafcc2" name="变更" comment="24.Spring Boot DevTools热部署">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_26_Spring_Boot_Filter_Interceptor/src/main/java/com/lstring/demo/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/_26_Spring_Boot_Filter_Interceptor/src/main/java/com/lspring/demo/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_26_Spring_Boot_Filter_Interceptor/src/main/java/com/lstring/demo/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/_26_Spring_Boot_Filter_Interceptor/src/main/java/com/lspring/demo/config/WebConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_26_Spring_Boot_Filter_Interceptor/src/main/java/com/lstring/demo/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/_26_Spring_Boot_Filter_Interceptor/src/main/java/com/lspring/demo/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_26_Spring_Boot_Filter_Interceptor/src/main/java/com/lstring/demo/filter/TimeFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/_26_Spring_Boot_Filter_Interceptor/src/main/java/com/lspring/demo/filter/TimeFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_26_Spring_Boot_Filter_Interceptor/src/main/java/com/lstring/demo/filter/TimeFilter1.java" beforeDir="false" afterPath="$PROJECT_DIR$/_26_Spring_Boot_Filter_Interceptor/src/main/java/com/lspring/demo/filter/TimeFilter1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_26_Spring_Boot_Filter_Interceptor/src/main/java/com/lstring/demo/filter/TimeFilter2.java" beforeDir="false" afterPath="$PROJECT_DIR$/_26_Spring_Boot_Filter_Interceptor/src/main/java/com/lspring/demo/filter/TimeFilter2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_26_Spring_Boot_Filter_Interceptor/src/main/java/com/lstring/demo/interceptor/TimeInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/_26_Spring_Boot_Filter_Interceptor/src/main/java/com/lspring/demo/interceptor/TimeInterceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_26_Spring_Boot_Filter_Interceptor/src/test/java/com/lstring/demo/ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/_26_Spring_Boot_Filter_Interceptor/src/test/java/com/lspring/demo/ApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +107,13 @@
     </configuration>
     <configuration name="Application (11)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="_26_Spring_Boot_Filter_Interceptor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lspring.demo.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (12)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="_34_Start_Spring_Security" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lspring.demo.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -216,7 +215,7 @@
       <workItem from="1666942642672" duration="106000" />
       <workItem from="1666942754018" duration="91000" />
       <workItem from="1666942898562" duration="250000" />
-      <workItem from="1666943158403" duration="181000" />
+      <workItem from="1666943158403" duration="3108000" />
     </task>
     <task id="LOCAL-00001" summary="各种引用">
       <created>1666704862851</created>
@@ -351,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666940588997</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="24.Spring Boot DevTools热部署">
+      <created>1666943383105</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1666943383105</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -383,7 +389,8 @@
     <MESSAGE value="4.Spring Boot中使用JdbcTemplate" />
     <MESSAGE value="5.Spring Boot MyBatis配置Druid多数据源" />
     <MESSAGE value="26.Spring Boot中使用过滤器和拦截器" />
-    <option name="LAST_COMMIT_MESSAGE" value="26.Spring Boot中使用过滤器和拦截器" />
+    <MESSAGE value="24.Spring Boot DevTools热部署" />
+    <option name="LAST_COMMIT_MESSAGE" value="24.Spring Boot DevTools热部署" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
