@@ -14,6 +14,7 @@
         <module name="_01_Start_Spring_Boot" />
         <module name="_04_Spring_Boot_JdbcTemplate" />
         <module name="_24_Spring_Boot_Devtools" />
+        <module name="_35_Spring_Security_Authentication" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -32,6 +33,7 @@
       <module name="_24_Spring_Boot_Devtools" options="-parameters" />
       <module name="_26_Spring_Boot_Filter_Interceptor" options="-parameters" />
       <module name="_34_Start_Spring_Security" options="-parameters" />
+      <module name="_35_Spring_Security_Authentication" options="-parameters" />
       <module name="test" options="-parameters" />
     </option>
   </component>
