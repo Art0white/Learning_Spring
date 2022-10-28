@@ -12,6 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3aa2e7ee-4d00-4c5b-9782-976e8dfafcc2" name="变更" comment="35.Spring Security自定义用户认知">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_35_Spring_Security_Authentication/src/main/resources/resources/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/_35_Spring_Security_Authentication/src/main/resources/resources/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +227,7 @@
       <workItem from="1666942642672" duration="106000" />
       <workItem from="1666942754018" duration="91000" />
       <workItem from="1666942898562" duration="250000" />
-      <workItem from="1666943158403" duration="6604000" />
+      <workItem from="1666943158403" duration="7128000" />
     </task>
     <task id="LOCAL-00001" summary="各种引用">
       <created>1666704862851</created>
@@ -389,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666949234837</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="35.Spring Security自定义用户认知">
+      <created>1666950042377</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1666950042377</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
