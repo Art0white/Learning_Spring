@@ -21,7 +21,6 @@ public class WebConfig implements WebMvcConfigurer {
      * Filter1号, 优先级1
      * @author Lovsog
      * @date 2022/10/28 14:29
-     * @param null
      */
     @Bean
     public FilterRegistrationBean timeFilter1() {
@@ -41,7 +40,6 @@ public class WebConfig implements WebMvcConfigurer {
      * Filter2号, 优先级2
      * @author Lovsog
      * @date 2022/10/28 14:29
-     * @param null
      */
     @Bean
     public FilterRegistrationBean timeFilter2() {

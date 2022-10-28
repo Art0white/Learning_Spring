@@ -10,11 +10,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aa2e7ee-4d00-4c5b-9782-976e8dfafcc2" name="变更" comment="5.Spring Boot MyBatis配置Druid多数据源">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3aa2e7ee-4d00-4c5b-9782-976e8dfafcc2" name="变更" comment="26.Spring Boot中使用过滤器和拦截器">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_26_Spring_Boot_Filter_Interceptor/src/main/java/com/lstring/demo/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/_26_Spring_Boot_Filter_Interceptor/src/main/java/com/lstring/demo/config/WebConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +169,7 @@
       <workItem from="1666701651425" duration="3478000" />
       <workItem from="1666763302892" duration="104000" />
       <workItem from="1666763417904" duration="12084000" />
-      <workItem from="1666924386449" duration="5562000" />
+      <workItem from="1666924386449" duration="5656000" />
     </task>
     <task id="LOCAL-00001" summary="各种引用">
       <created>1666704862851</created>
@@ -292,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666774843705</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="26.Spring Boot中使用过滤器和拦截器">
+      <created>1666940502155</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1666940502155</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,6 +328,7 @@
     <MESSAGE value="3.Spring Boot中使用MyBatis" />
     <MESSAGE value="4.Spring Boot中使用JdbcTemplate" />
     <MESSAGE value="5.Spring Boot MyBatis配置Druid多数据源" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.Spring Boot MyBatis配置Druid多数据源" />
+    <MESSAGE value="26.Spring Boot中使用过滤器和拦截器" />
+    <option name="LAST_COMMIT_MESSAGE" value="26.Spring Boot中使用过滤器和拦截器" />
   </component>
 </project>
