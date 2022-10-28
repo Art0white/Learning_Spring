@@ -13,6 +13,8 @@
         <option value="$PROJECT_DIR$/_03_Spring_Boot_MyBatis/pom.xml" />
         <option value="$PROJECT_DIR$/_04_Spring_Boot_JdbcTemplate/pom.xml" />
         <option value="$PROJECT_DIR$/_05_Spring_Boot_MyBatis_MultiDataSource/pom.xml" />
+        <option value="$PROJECT_DIR$/_23_Spring_Boot_Filter_Interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/_26_Spring_Boot_Filter_Interceptor/pom.xml" />
       </list>
     </option>
   </component>

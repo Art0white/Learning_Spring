@@ -9,6 +9,7 @@
         <module name="_01_Start_Spring_Boot" />
         <module name="_04_Spring_Boot_JdbcTemplate" />
         <module name="_03_Spring_Boot_MyBatis" />
+        <module name="_26_Spring_Boot_Filter_Interceptor" />
         <module name="_02_Spring_Boot_Config" />
         <module name="_05_Spring_Boot_MyBatis_MultiDataSource" />
       </profile>
@@ -25,6 +26,7 @@
       <module name="_03_Spring_Boot_MyBatis" options="-parameters" />
       <module name="_04_Spring_Boot_JdbcTemplate" options="-parameters" />
       <module name="_05_Spring_Boot_MyBatis_MultiDataSource" options="-parameters" />
+      <module name="_26_Spring_Boot_Filter_Interceptor" options="-parameters" />
     </option>
   </component>
 </project>
