@@ -11,12 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aa2e7ee-4d00-4c5b-9782-976e8dfafcc2" name="变更" comment="34.Spring Boot中开启Spring Security">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_34_Start_Spring_Security/src/main/java/com/lspring/demo/security/browser/BrowserSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/_34_Start_Spring_Security/src/main/java/com/lspring/demo/security/browser/BrowserSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_34_Start_Spring_Security/src/main/java/com/lspring/demo/web/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/_34_Start_Spring_Security/src/main/java/com/lspring/demo/web/controller/TestController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -55,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
@@ -64,7 +61,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "E:/project_java/Learning_Spring/_35_Spring_Security_Authentication/src/main",
+    "last_opened_file_path": "E:/project_java/Learning_Spring/_35_Spring_Security_Authentication/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,16 +76,21 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project_java\Learning_Spring\_35_Spring_Security_Authentication\src\main\resources" />
+      <recent name="E:\project_java\Learning_Spring\_35_Spring_Security_Authentication\src\main\java\com\lspring\demo" />
       <recent name="E:\project_java\Learning_Spring\_35_Spring_Security_Authentication\src\main" />
       <recent name="E:\project_java\Learning_Spring\_05_Spring_Boot_MyBatis_MultiDataSource\src\main\java\com\lstring\demo" />
       <recent name="E:\project_java\Learning_Spring\_05_Spring_Boot_MyBatis_MultiDataSource\src\main\resources" />
-      <recent name="E:\project_java\Learning_Spring\_04_Spring_Boot_JdbcTemplate\src\main\resources" />
-      <recent name="E:\project_java\Learning_Spring\_04_Spring_Boot_JdbcTemplate\src\main\java\com\lstring\demo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\project_java\Learning_Spring\_35_Spring_Security_Authentication\src\main\resources\web" />
+      <recent name="E:\project_java\Learning_Spring\_35_Spring_Security_Authentication\src\main\resources" />
+      <recent name="E:\project_java\Learning_Spring\_35_Spring_Security_Authentication\src\main\resources\web\css" />
       <recent name="E:\project_java\Learning_Spring" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lspring.demo.web.controller" />
+      <recent name="com.lspring.demo.security.browser" />
       <recent name="com.lstring.demo.filter" />
     </key>
   </component>
@@ -224,7 +226,7 @@
       <workItem from="1666942642672" duration="106000" />
       <workItem from="1666942754018" duration="91000" />
       <workItem from="1666942898562" duration="250000" />
-      <workItem from="1666943158403" duration="3694000" />
+      <workItem from="1666943158403" duration="5992000" />
     </task>
     <task id="LOCAL-00001" summary="各种引用">
       <created>1666704862851</created>
@@ -373,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666946308811</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="34.Spring Boot中开启Spring Security">
+      <created>1666946892534</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1666946892534</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
