@@ -1,16 +1,14 @@
-package com.lstring.demo.config;
+package com.lspring.demo.config;
 
-import com.lstring.demo.filter.TimeFilter;
-import com.lstring.demo.filter.TimeFilter1;
-import com.lstring.demo.filter.TimeFilter2;
-import com.lstring.demo.interceptor.TimeInterceptor;
+import com.lspring.demo.filter.TimeFilter1;
+import com.lspring.demo.filter.TimeFilter2;
+import com.lspring.demo.interceptor.TimeInterceptor;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
-import javax.servlet.FilterRegistration;
 import java.util.ArrayList;
 import java.util.List;
 

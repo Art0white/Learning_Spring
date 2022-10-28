@@ -1,4 +1,4 @@
-package com.lstring.demo;
+package com.lspring.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

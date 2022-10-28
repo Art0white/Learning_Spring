@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/_05_Spring_Boot_MyBatis_MultiDataSource/pom.xml" />
         <option value="$PROJECT_DIR$/_23_Spring_Boot_Filter_Interceptor/pom.xml" />
         <option value="$PROJECT_DIR$/_26_Spring_Boot_Filter_Interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/_24_Spring_Boot_Devtools/pom.xml" />
       </list>
     </option>
   </component>
