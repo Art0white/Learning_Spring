@@ -11,8 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aa2e7ee-4d00-4c5b-9782-976e8dfafcc2" name="变更" comment="35.Spring Security自定义用户认知">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_35_Spring_Security_Authentication/src/main/resources/resources/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/_35_Spring_Security_Authentication/src/main/resources/resources/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +64,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "E:/project_java/Learning_Spring/_35_Spring_Security_Authentication/src/main/resources",
+    "last_opened_file_path": "E:/project_java/Learning_Spring/_22_Spring_Boot_Email/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,16 +74,16 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "advanced.settings",
-    "spring.configuration.checksum": "774db8e1c87a1afb8dca6180facc3e56"
+    "spring.configuration.checksum": "0abd67db0796085cc956f96a7ed0040a"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project_java\Learning_Spring\_22_Spring_Boot_Email\src\main\resources" />
       <recent name="E:\project_java\Learning_Spring\_35_Spring_Security_Authentication\src\main\resources" />
       <recent name="E:\project_java\Learning_Spring\_35_Spring_Security_Authentication\src\main\java\com\lspring\demo" />
       <recent name="E:\project_java\Learning_Spring\_35_Spring_Security_Authentication\src\main" />
       <recent name="E:\project_java\Learning_Spring\_05_Spring_Boot_MyBatis_MultiDataSource\src\main\java\com\lstring\demo" />
-      <recent name="E:\project_java\Learning_Spring\_05_Spring_Boot_MyBatis_MultiDataSource\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\project_java\Learning_Spring\_35_Spring_Security_Authentication\src\main\resources\web" />
@@ -90,6 +92,7 @@
       <recent name="E:\project_java\Learning_Spring" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lspring.demo.controller" />
       <recent name="com.lspring.demo.web.controller" />
       <recent name="com.lspring.demo.security.browser" />
       <recent name="com.lstring.demo.filter" />
@@ -126,6 +129,13 @@
     </configuration>
     <configuration name="Application (13)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="_35_Spring_Security_Authentication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lspring.demo.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (14)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="_22_Spring_Boot_Email" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lspring.demo.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -227,7 +237,8 @@
       <workItem from="1666942642672" duration="106000" />
       <workItem from="1666942754018" duration="91000" />
       <workItem from="1666942898562" duration="250000" />
-      <workItem from="1666943158403" duration="7128000" />
+      <workItem from="1666943158403" duration="7854000" />
+      <workItem from="1667199152113" duration="4143000" />
     </task>
     <task id="LOCAL-00001" summary="各种引用">
       <created>1666704862851</created>
@@ -397,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666950042377</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="35.Spring Security自定义用户认知">
+      <created>1666950494671</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1666950494671</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
