@@ -11,10 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aa2e7ee-4d00-4c5b-9782-976e8dfafcc2" name="变更" comment="22.使用Spring Boot发送邮件">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_22_Spring_Boot_Email/src/main/java/com/lspring/demo/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/_22_Spring_Boot_Email/src/main/java/com/lspring/demo/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_22_Spring_Boot_Email/src/main/java/com/lspring/demo/controller/EmailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/_22_Spring_Boot_Email/src/main/java/com/lspring/demo/controller/EmailController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_22_Spring_Boot_Email/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_22_Spring_Boot_Email/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +140,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Application (15)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="_49_Spring_Boot_Async" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lspring.demo.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="_02_Spring_Boot_Config" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lspring._02_spring_boot_config.Application" />
@@ -238,7 +244,7 @@
       <workItem from="1666942754018" duration="91000" />
       <workItem from="1666942898562" duration="250000" />
       <workItem from="1666943158403" duration="7854000" />
-      <workItem from="1667199152113" duration="4490000" />
+      <workItem from="1667199152113" duration="5211000" />
     </task>
     <task id="LOCAL-00001" summary="各种引用">
       <created>1666704862851</created>
@@ -471,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667204202361</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="22.使用Spring Boot发送邮件">
+      <created>1667204370344</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1667204370344</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

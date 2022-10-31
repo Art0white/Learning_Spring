@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="_03_Spring_Boot_MyBatis" />
         <module name="_26_Spring_Boot_Filter_Interceptor" />
+        <module name="_49_Spring_Boot_Async" />
         <module name="_34_Start_Spring_Security" />
         <module name="_02_Spring_Boot_Config" />
         <module name="_05_Spring_Boot_MyBatis_MultiDataSource" />
@@ -36,6 +37,7 @@
       <module name="_26_Spring_Boot_Filter_Interceptor" options="-parameters" />
       <module name="_34_Start_Spring_Security" options="-parameters" />
       <module name="_35_Spring_Security_Authentication" options="-parameters" />
+      <module name="_49_Spring_Boot_Async" options="-parameters" />
       <module name="test" options="-parameters" />
     </option>
   </component>
