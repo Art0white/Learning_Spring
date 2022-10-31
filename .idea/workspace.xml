@@ -10,10 +10,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aa2e7ee-4d00-4c5b-9782-976e8dfafcc2" name="变更" comment="22.使用Spring Boot发送邮件">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="3aa2e7ee-4d00-4c5b-9782-976e8dfafcc2" name="变更" comment="49.Spring Boot 中的异步调用">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_49_Spring_Boot_Async/src/main/java/com/lspring/demo/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/_49_Spring_Boot_Async/src/main/java/com/lspring/demo/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +90,7 @@
       <recent name="E:\project_java\Learning_Spring" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lspring.demo.config" />
       <recent name="com.lspring.demo.controller" />
       <recent name="com.lspring.demo.web.controller" />
       <recent name="com.lspring.demo.security.browser" />
@@ -244,7 +244,7 @@
       <workItem from="1666942754018" duration="91000" />
       <workItem from="1666942898562" duration="250000" />
       <workItem from="1666943158403" duration="7854000" />
-      <workItem from="1667199152113" duration="5211000" />
+      <workItem from="1667199152113" duration="6635000" />
     </task>
     <task id="LOCAL-00001" summary="各种引用">
       <created>1666704862851</created>
@@ -484,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667204370344</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="49.Spring Boot 中的异步调用">
+      <created>1667205248370</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1667205248370</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -526,7 +533,8 @@
     <MESSAGE value="22.使用Spring Boot发送邮件 EmailController类" />
     <MESSAGE value="22.使用Spring Boot发送邮件 全局配置" />
     <MESSAGE value="22.使用Spring Boot发送邮件" />
-    <option name="LAST_COMMIT_MESSAGE" value="22.使用Spring Boot发送邮件" />
+    <MESSAGE value="49.Spring Boot 中的异步调用" />
+    <option name="LAST_COMMIT_MESSAGE" value="49.Spring Boot 中的异步调用" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
