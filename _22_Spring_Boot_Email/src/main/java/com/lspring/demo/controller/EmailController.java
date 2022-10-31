@@ -24,7 +24,8 @@ public class EmailController {
 	@Value("${spring.mail.username}")
 	private String from;
 
-	private final String to = "lovsog@163.com";
+	@Value("${spring.mail.to}")
+	private String to;
 
     @Autowired
     private TemplateEngine templateEngine;
