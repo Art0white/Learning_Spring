@@ -11,8 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aa2e7ee-4d00-4c5b-9782-976e8dfafcc2" name="变更" comment="49.Spring Boot 中的异步调用">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_49_Spring_Boot_Async/src/main/java/com/lspring/demo/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/_49_Spring_Boot_Async/src/main/java/com/lspring/demo/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +64,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "E:/project_java/Learning_Spring/_22_Spring_Boot_Email/src/main/resources",
+    "last_opened_file_path": "E:/project_java/Learning_Spring/_48_Spring_Boot_CORS_Support/src/main/resources/templates",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,11 +79,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project_java\Learning_Spring\_48_Spring_Boot_CORS_Support\src\main\resources\templates" />
       <recent name="E:\project_java\Learning_Spring\_22_Spring_Boot_Email\src\main\resources" />
       <recent name="E:\project_java\Learning_Spring\_35_Spring_Security_Authentication\src\main\resources" />
       <recent name="E:\project_java\Learning_Spring\_35_Spring_Security_Authentication\src\main\java\com\lspring\demo" />
       <recent name="E:\project_java\Learning_Spring\_35_Spring_Security_Authentication\src\main" />
-      <recent name="E:\project_java\Learning_Spring\_05_Spring_Boot_MyBatis_MultiDataSource\src\main\java\com\lstring\demo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\project_java\Learning_Spring\_35_Spring_Security_Authentication\src\main\resources\web" />
@@ -104,7 +106,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.Application (16)">
     <configuration name="Application (10)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="_04_Spring_Boot_JdbcTemplate" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lspring.demo.Application" />
@@ -142,6 +144,13 @@
     </configuration>
     <configuration name="Application (15)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="_49_Spring_Boot_Async" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lspring.demo.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (16)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="_48_Spring_Boot_CORS_Support" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lspring.demo.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -244,7 +253,7 @@
       <workItem from="1666942754018" duration="91000" />
       <workItem from="1666942898562" duration="250000" />
       <workItem from="1666943158403" duration="7854000" />
-      <workItem from="1667199152113" duration="6635000" />
+      <workItem from="1667199152113" duration="10434000" />
     </task>
     <task id="LOCAL-00001" summary="各种引用">
       <created>1666704862851</created>
@@ -491,7 +500,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667205248370</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="49.Spring Boot 中的异步调用">
+      <created>1667206684642</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1667206684642</updated>
+    </task>
+    <task id="LOCAL-00037" summary="49.Spring Boot 中的异步调用">
+      <created>1667206703824</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1667206703824</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

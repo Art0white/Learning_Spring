@@ -20,6 +20,7 @@
         <option value="$PROJECT_DIR$/_35_Spring_Security_Authentication/pom.xml" />
         <option value="$PROJECT_DIR$/_22_Spring_Boot_Email/pom.xml" />
         <option value="$PROJECT_DIR$/_49_Spring_Boot_Async/pom.xml" />
+        <option value="$PROJECT_DIR$/_48_Spring_Boot_CORS_Support/pom.xml" />
       </list>
     </option>
   </component>
