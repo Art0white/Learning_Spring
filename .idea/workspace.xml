@@ -10,12 +10,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aa2e7ee-4d00-4c5b-9782-976e8dfafcc2" name="变更" comment="35.Spring Security自定义用户认知">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3aa2e7ee-4d00-4c5b-9782-976e8dfafcc2" name="变更" comment="22.使用Spring Boot发送邮件 测试" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,7 +233,7 @@
       <workItem from="1666942754018" duration="91000" />
       <workItem from="1666942898562" duration="250000" />
       <workItem from="1666943158403" duration="7854000" />
-      <workItem from="1667199152113" duration="4143000" />
+      <workItem from="1667199152113" duration="4246000" />
     </task>
     <task id="LOCAL-00001" summary="各种引用">
       <created>1666704862851</created>
@@ -415,7 +410,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666950494671</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="22.使用Spring Boot发送邮件 配置文件">
+      <created>1667204030558</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1667204030558</updated>
+    </task>
+    <task id="LOCAL-00027" summary="22.使用Spring Boot发送邮件 文档+图片+模板">
+      <created>1667204066951</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1667204066951</updated>
+    </task>
+    <task id="LOCAL-00028" summary="22.使用Spring Boot发送邮件 测试">
+      <created>1667204086303</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1667204086303</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,7 +466,10 @@
     <MESSAGE value="24.Spring Boot DevTools热部署" />
     <MESSAGE value="34.Spring Boot中开启Spring Security" />
     <MESSAGE value="35.Spring Security自定义用户认知" />
-    <option name="LAST_COMMIT_MESSAGE" value="35.Spring Security自定义用户认知" />
+    <MESSAGE value="22.使用Spring Boot发送邮件 配置文件" />
+    <MESSAGE value="22.使用Spring Boot发送邮件 文档+图片+模板" />
+    <MESSAGE value="22.使用Spring Boot发送邮件 测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="22.使用Spring Boot发送邮件 测试" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
